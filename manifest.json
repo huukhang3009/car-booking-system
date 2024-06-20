@@ -1,0 +1,22 @@
+{
+    "name": "Book Car",
+    "short_name": "BookCar",
+    "description": "Ứng dụng đặt xe tiện lợi.",
+    "start_url": "/car-booking-system/index.php",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50",
+    "icons": [
+      {
+        "src": "/car-booking-system/logo.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/car-booking-system/logo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
